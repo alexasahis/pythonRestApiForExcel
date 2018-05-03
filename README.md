@@ -15,4 +15,5 @@ python bottle_example.py
 Check http://localhost:8080/search/Diego
 
 ## Read xls
-You can easly modify for read excel files by  changing line 19 for pd.read_xls
+The current setup is working for reading csv.
+You can easly modify for read excel files by  changing line 5 to pd.read_xls
