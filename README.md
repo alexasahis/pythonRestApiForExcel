@@ -2,14 +2,13 @@
 By Diego Saez-Trumper
 Feb 2017
 
-##Installation
-###Libs 
+## Installation
+### Libs 
 sudo pip install bottle
 sudo apt-get install python-pandas
 
-##Usage:
+## Usage:
 python bottle_example.py
-
 
 Check http://localhost:8080/search/Diego
 
